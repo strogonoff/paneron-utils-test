@@ -1,1 +1,3 @@
-console.log("Test")
+export function f() {
+  console.log("Test")
+}
